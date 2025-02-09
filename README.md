@@ -22,7 +22,7 @@
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/abdulkadir-ahmed-a5292834b)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulkadir-ahmed-a5292834b/)  
 - 📧 Email: abdulkadirahmed008@gmail.com
 
 ---
