@@ -12,8 +12,8 @@ Passionate about innovation and solving real-world problems through technology. 
   - System design and performance optimization  
 
 - Ongoing Projects:  
-  - StudentHUB: A feature-rich platform aimed at enhancing student productivity and collaboration  
-  - Quotify: A lightweight public API for managing quotes and notes, built with FastAPI and MongoDB  
+  - StudentHUB: My main, large-scale project aimed at enhancing student productivity and collaboration through a cross-platform application  
+  - Quotify: A smaller-scale, independent project providing a lightweight public API for managing quotes and notes  
 
 - Looking to Collaborate On:  
   - Open-source projects, especially in web development, backend APIs, and educational platforms  
@@ -38,11 +38,11 @@ Passionate about innovation and solving real-world problems through technology. 
 
 ## Featured Projects
 
-- StudentHUB: A hub for students to collaborate, plan, and succeed  
+- StudentHUB: My main, large-scale project for students to collaborate, plan, and succeed  
   - Tags: React Native, Expo, Node.js, PostgreSQL, MongoDB, Express.js  
   - Explore it [here](https://github.com/AbdulkadirAhmed1/StudentHUB-Project)  
 
-- Quotify: A lightweight public API and frontend for managing inspirational quotes and notes  
+- Quotify: A smaller-scale public API and frontend for managing inspirational quotes and notes  
   - Tags: FastAPI, Python, MongoDB, HTML, CSS, JavaScript  
   - Explore it [here](https://github.com/AbdulkadirAhmed1/Quotify)  
 
