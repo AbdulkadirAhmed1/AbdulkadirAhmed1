@@ -44,6 +44,10 @@ Passionate about innovation and solving real-world problems through technology. 
 
 - Quotify: A smaller-scale public API and frontend for managing inspirational quotes and notes  
   - Tags: FastAPI, Python, MongoDB, HTML, CSS, JavaScript  
-  - Explore it [here](https://github.com/AbdulkadirAhmed1/Quotify)  
+  - Explore it [here](https://github.com/AbdulkadirAhmed1/Quotify)
+     
+- PulseQueue: An asynchronous backend system demonstrating queue-based processing and production-style backend architecture  
+  - Tags: Node.js, Express.js, Redis, PostgreSQL, MongoDB, Docker  
+  - Explore it [here](https://github.com/AbdulkadirAhmed1/PulseQueue)
 
 ---
