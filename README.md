@@ -30,9 +30,42 @@ Passionate about innovation and solving real-world problems through technology. 
 
 ## Skills
 
-- Programming Languages: JavaScript, TypeScript, Python, C, RISC-V Assembly, Verilog  
-- Frameworks & Tools: React, React Native, Express.js, FastAPI, Tailwind CSS, MongoDB, Git  
-- Other Expertise: API development, low-level programming, system design, version control  
+**Languages**
+- Java, Python, JavaScript, TypeScript, SQL, C
+
+**Backend Development**
+- Node.js, Express.js, FastAPI
+- RESTful API design, request/response contracts
+- CRUD workflows, backend service architecture
+
+**Databases**
+- PostgreSQL, MongoDB, MongoDB Atlas
+- Data modeling, schema design, query optimization
+
+**Frontend Development**
+- React Native, HTML, CSS
+- Component-based UI architecture
+- State management, user interaction flows
+
+**Tools & Developer Environment**
+- GitHub Actions, Postman, VS Code
+- Unix/Bash, Git version control
+
+**Systems & Architecture**
+- Client–server architecture
+- API design principles
+- Data modeling and system boundaries
+
+**Engineering Practices**
+- SDLC (Agile, Iterative)
+- Clean code, debugging, refactoring
+- Testing fundamentals, documentation
+
+**Deployment & Exposure**
+- CI/CD pipelines
+- Environment variables
+- Docker (exposure)
+- Backend deployment workflows
 
 ---
 
@@ -50,4 +83,27 @@ Passionate about innovation and solving real-world problems through technology. 
   - Tags: Node.js, Express.js, Redis, PostgreSQL, MongoDB, Docker  
   - Explore it [here](https://github.com/AbdulkadirAhmed1/PulseQueue)
 
----
+--- 
+
+## Relevant Coursework (EECS)
+
+- **EECS 2101 – Fundamentals of Data Structures (A)**  
+  Abstract data types, algorithmic complexity (Big-O), searching and sorting, core data structures
+
+- **EECS 2030 – Advanced Object-Oriented Programming (B+)**  
+  Modular Java design, inheritance, polymorphism, interfaces, design patterns, clean code practices
+
+- **EECS 3421 – Introduction to Database Systems (B+)**  
+  Relational database design, SQL, normalization, indexing, transactions
+
+- **EECS 2311 – Software Development Project (B+)**  
+  Full software development lifecycle, system design, implementation, testing, documentation, team collaboration
+
+- **EECS 3221 – Operating Systems**  
+  Process and thread scheduling, synchronization primitives, memory management, virtual memory, disk scheduling
+
+- **EECS 2021 – Computer Organization (B+)**  
+  CPU architecture, instruction execution, ALU design, memory hierarchy, RISC-style processor organization
+
+  ---
+
