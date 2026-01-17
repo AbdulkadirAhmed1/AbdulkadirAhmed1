@@ -72,7 +72,7 @@ Passionate about innovation and solving real-world problems through technology. 
 ## Featured Projects
 
 - StudentHUB: My main, large-scale project for students to collaborate, plan, and succeed  
-  - Tags: React Native, Expo, Node.js, PostgreSQL, MongoDB, Express.js  
+  - Tags: React Native, Expo, Node.js, PostgreSQL, Express.js  
   - Explore it [here](https://github.com/AbdulkadirAhmed1/StudentHUB-Project)  
 
 - Quotify: A smaller-scale public API and frontend for managing inspirational quotes and notes  
