@@ -26,6 +26,22 @@ Passionate about innovation and solving real-world problems through technology. 
 
 ---
 
+## Featured Projects
+
+- StudentHUB: My main, large-scale project for students to collaborate, plan, and succeed  
+  - Tags: React Native, Expo, Node.js, PostgreSQL, Express.js  
+  - Explore it [here](https://github.com/AbdulkadirAhmed1/StudentHUB-Project)  
+
+- Quotify: A smaller-scale public API and frontend for managing inspirational quotes and notes  
+  - Tags: FastAPI, Python, MongoDB, HTML, CSS, JavaScript  
+  - Explore it [here](https://github.com/AbdulkadirAhmed1/Quotify)
+     
+- PulseQueue: An asynchronous backend system demonstrating queue-based processing and production-style backend architecture  
+  - Tags: Node.js, Express.js, Redis, PostgreSQL, MongoDB, Docker, AWS EC2(planned) 
+  - Explore it [here](https://github.com/AbdulkadirAhmed1/PulseQueue)
+
+--- 
+
 ## Skills
 
 **Languages**
@@ -64,22 +80,6 @@ Passionate about innovation and solving real-world problems through technology. 
 - Environment variables
 - Docker (exposure)
 - Backend deployment workflows
-
----
-
-## Featured Projects
-
-- StudentHUB: My main, large-scale project for students to collaborate, plan, and succeed  
-  - Tags: React Native, Expo, Node.js, PostgreSQL, Express.js  
-  - Explore it [here](https://github.com/AbdulkadirAhmed1/StudentHUB-Project)  
-
-- Quotify: A smaller-scale public API and frontend for managing inspirational quotes and notes  
-  - Tags: FastAPI, Python, MongoDB, HTML, CSS, JavaScript  
-  - Explore it [here](https://github.com/AbdulkadirAhmed1/Quotify)
-     
-- PulseQueue: An asynchronous backend system demonstrating queue-based processing and production-style backend architecture  
-  - Tags: Node.js, Express.js, Redis, PostgreSQL, MongoDB, Docker, AWS EC2(planned) 
-  - Explore it [here](https://github.com/AbdulkadirAhmed1/PulseQueue)
 
 --- 
 
