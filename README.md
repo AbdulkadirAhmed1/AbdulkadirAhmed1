@@ -7,13 +7,11 @@ Passionate about innovation and solving real-world problems through technology. 
 ## About Me
 
 - Currently Learning:  
-  - Backend development with Node.js, Express.js, FastAPI, and MongoDB  
-  - Advanced frontend development techniques with React Native and Expo  
-  - System design and performance optimization  
-
-- Ongoing Projects:  
-  - StudentHUB: My main, large-scale project aimed at enhancing student productivity and collaboration through a cross-platform application  
-  - Quotify: A smaller-scale, independent project providing a lightweight public API for managing quotes and notes  
+  - Backend development with Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Redis
+  - Advanced frontend techniques with React Native and Expo
+  - Deployment practices including Render, CI/CD pipelines, Docker
+  - Cloud fundamentals (AWS)
+  - System design and performance optimization
 
 - Looking to Collaborate On:  
   - Open-source projects, especially in web development, backend APIs, and educational platforms  
@@ -34,7 +32,7 @@ Passionate about innovation and solving real-world problems through technology. 
 - Java, Python, JavaScript, TypeScript, SQL, C
 
 **Backend Development**
-- Node.js, Express.js, FastAPI
+- Node.js, Express.js, FastAPI, Redis
 - RESTful API design, request/response contracts
 - CRUD workflows, backend service architecture
 
@@ -80,7 +78,7 @@ Passionate about innovation and solving real-world problems through technology. 
   - Explore it [here](https://github.com/AbdulkadirAhmed1/Quotify)
      
 - PulseQueue: An asynchronous backend system demonstrating queue-based processing and production-style backend architecture  
-  - Tags: Node.js, Express.js, Redis, PostgreSQL, MongoDB, Docker  
+  - Tags: Node.js, Express.js, Redis, PostgreSQL, MongoDB, Docker, AWS EC2(planned) 
   - Explore it [here](https://github.com/AbdulkadirAhmed1/PulseQueue)
 
 --- 
@@ -99,7 +97,7 @@ Passionate about innovation and solving real-world problems through technology. 
 - **EECS 2311 – Software Development Project (B+)**  
   Full software development lifecycle, system design, implementation, testing, documentation, team collaboration
 
-- **EECS 3221 – Operating Systems**  
+- **EECS 3221 – Operating Systems (B)**  
   Process and thread scheduling, synchronization primitives, memory management, virtual memory, disk scheduling
 
 - **EECS 2021 – Computer Organization (B+)**  
